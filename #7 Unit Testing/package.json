@@ -1,0 +1,20 @@
+{
+  "name": "7-unit-testing",
+  "version": "1.0.0",
+  "description": "A project to demonstrate unit testing with Mocha and Chai",
+  "type": "module",
+  "main": "01. Request Validator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
